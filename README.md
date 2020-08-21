@@ -20,6 +20,6 @@
 
 - 用isset()查詢$_POST(btnHome)是否有值，有的話就回首頁。當使用者沒有輸入帳號和密碼就不能登入並顯示紅色提示字樣
 ![image](https://github.com/xxxijslm/homework4/blob/master/img/hw4_6_1.png)
-![image](https://github.com/xxxijslm/homework4/blob/master/img/hw4_6_2.png)
-![image](https://github.com/xxxijslm/homework4/blob/master/img/hw4_6_3.png)
-![image](https://github.com/xxxijslm/homework4/blob/master/img/hw4_6_4.png)
+![image](https://github.com/xxxijslm/homework4/blob/master/img/%C2%A0hw4_6_2.png)
+![image](https://github.com/xxxijslm/homework4/blob/master/img/%C2%A0hw4_6_3.png)
+![image](https://github.com/xxxijslm/homework4/blob/master/img/%C2%A0hw4_6_4.png)
